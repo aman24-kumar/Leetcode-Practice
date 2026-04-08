@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0283-move-zeroes) |
+| [1046-last-stone-weight](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
