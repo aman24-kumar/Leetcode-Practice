@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1046-last-stone-weight](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1046-last-stone-weight) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
