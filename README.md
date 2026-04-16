@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-last-stone-weight](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
 ## Two Pointers
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
 ## Math
 |  |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
