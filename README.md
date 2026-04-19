@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0459-repeated-substring-pattern) |
 ## Trie
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
