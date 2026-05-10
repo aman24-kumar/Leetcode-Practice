@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0459-repeated-substring-pattern) |
 ## Trie
 |  |
