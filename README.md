@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-last-stone-weight](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -122,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
