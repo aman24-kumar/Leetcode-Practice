@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1046-last-stone-weight](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aman24-kumar/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
